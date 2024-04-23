@@ -8,7 +8,7 @@ public class Atividade0405 {
         double contador = 0;
         //numerocimanovo = numerocima + 2;
         //numerobaixonovo = numerobaixo + 2. 
-        for (int i = 1; i <= 20; i++) {
+        for (int i = 1; i <= 3; i++) {
             contador += (double) (numeroCima/numeroBaixo);
             numeroCima += 2;
             numeroBaixo += 2 + (2 * i);
