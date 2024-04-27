@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Atividade1405",
+            "request": "launch",
+            "mainClass": "Atividade1405",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0105",
+            "request": "launch",
+            "mainClass": "Atividade0105",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0205",
+            "request": "launch",
+            "mainClass": "Atividade0205",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0305",
+            "request": "launch",
+            "mainClass": "Atividade0305",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0405",
+            "request": "launch",
+            "mainClass": "Atividade0405",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0505",
+            "request": "launch",
+            "mainClass": "Atividade0505",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0605",
+            "request": "launch",
+            "mainClass": "Atividade0605",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0705",
+            "request": "launch",
+            "mainClass": "Atividade0705",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0805",
+            "request": "launch",
+            "mainClass": "Atividade0805",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade0905",
+            "request": "launch",
+            "mainClass": "Atividade0905",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade1105",
+            "request": "launch",
+            "mainClass": "Atividade1105",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade1205",
+            "request": "launch",
+            "mainClass": "Atividade1205",
+            "projectName": "unidade5_17f9fbb1"
+        },
+        {
+            "type": "java",
+            "name": "Atividade1305",
+            "request": "launch",
+            "mainClass": "Atividade1305",
+            "projectName": "unidade5_17f9fbb1"
+        }
+    ]
+}
